@@ -11,3 +11,36 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+.loading {
+  align-items: center;
+  display: flex;
+  justify-content: center;
+}
+
+.header {
+  background-color:rgb(35, 200, 100);
+  display: flex;
+  justify-content: center;
+  margin: 10px;
+  justify-content: space-around;
+  border-radius: 15px;
+}
+
+.link {  
+  margin: 10px;
+  color: white;
+}
+
+.albumArtist {    
+  justify-content: center;
+  margin: 50px;
+}
+
+.albumImg {
+  width: min-content;
+}
+
+.albumLink {
+  color:black;
+}
